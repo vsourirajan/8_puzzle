@@ -5,7 +5,7 @@ bfs: breadth-first search<br />
 dfs: depth-first search<br />
 ast: a-star search (uses total Manhattan distance as heuristic)<br /> <br />
 
-Run the solver as follows (python 3):<br />  `python3 8 puzzle_solver.py <solve_method> <comma_separated_board_of_numbers>`
+Run the solver as follows (python 3):<br />  `python3 puzzle_solver.py <solve_method> <comma_separated_board_of_numbers>`
 <br /> <br />
 For example:<br />
 `python3 puzzle_solver.py ast 8,7,6,5,4,3,2,1`
